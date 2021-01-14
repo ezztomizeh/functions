@@ -1,0 +1,4 @@
+rain average
+Jan 20.4
+Feb 40.2
+Mar 45.2
